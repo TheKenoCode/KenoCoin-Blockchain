@@ -1,7 +1,7 @@
 # KenoCoin Blockchain 
 
 JavaScript Blockchain.
-![image](https://user-images.githubusercontent.com/67208480/193968856-72df299d-62b9-432c-af5e-38515f28bad3.png)
+![image](https://user-images.githubusercontent.com/67208480/193968856-72df299d-62b9-432c-af5e-38515f28bad3.png).GetBackgroundAlpha()
 
 ## Description
 
