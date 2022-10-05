@@ -1,7 +1,8 @@
 # KenoCoin Blockchain 
 
 JavaScript Blockchain.
-<p align="center"><img style={{Wdith: "50%"}} src="https://i.imgur.com/9QxyJVU.jpg" /></p>
+
+<img src="https://i.imgur.com/9QxyJVU.jpg" width="300" height="400">
 
 ## Description
 
