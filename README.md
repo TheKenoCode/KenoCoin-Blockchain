@@ -32,8 +32,8 @@ node main.js
 
 Contributors names and contact info
 
-ex. KenoCode
-ex. [@KenoCode](https://twitter.com/dompizzie)
+KenoCode
+Twitter: [@KenoCode](https://twitter.com/dompizzie)
 
 ## Version History
 
