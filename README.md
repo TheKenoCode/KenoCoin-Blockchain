@@ -1,7 +1,8 @@
 # KenoCoin Blockchain 
 
 JavaScript Blockchain.
-[!image](https://i.imgur.com/9QxyJVU.jpg)
+#+html: <p align="center"><img src="https://i.imgur.com/9QxyJVU.jpg" /></p>
+
 ## Description
 
 Creating a blockchain using JavaScript
