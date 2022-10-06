@@ -29,7 +29,7 @@ Creating a blockchain using JavaScript
 * Run following command: 
 
 ```
-node main.js
+node bundle.js
 ```
 
 
