@@ -4,6 +4,9 @@ JavaScript Blockchain.
 
 <img src="https://i.imgur.com/9QxyJVU.jpg" width="500" height="400">
 
+<img src="https://i.imgur.com/NzW7fEm.png" width="500" height="400">
+
+
 ## Description
 
 Creating a blockchain using JavaScript
@@ -26,7 +29,7 @@ Creating a blockchain using JavaScript
 * Run following command: 
 
 ```
-node main.js
+node bundle.js
 ```
 
 
